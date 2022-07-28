@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "rollbar": "^2.25.0"
+  }
+}
